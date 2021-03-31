@@ -1,45 +1,19 @@
 # Start Sua Carreira - Portfólio
 
-Aqui vamos desenvolver ao longo dos dias desse curso, um currículo/portfólio.
+Curso voltado ao desenvolvimento Web, com foco na criação de um Portifólio.
 
-Esse repositório será atualizado todos os dias, com as alterações feitas junto com vocês nas lives.
+Nesse curso foi abordado: HTML5 e CSS3.
 
-## O projeto
+Além de aprender a formatação de um Site em HTML, também aprendi a fazer a estilização do mesmo a partir do CSS.
 
-### Estrutura de pastas
+Como Bonus, foram ensinados duas ferramentas interessantes utilizando apenas CSS3 (sem JavaScript):
 
-- kenzie-academy_startnasuacarreira.png
-- README.md
-- dia1/
-    - index.html
-    - assets/
-        - img/
-            - facebook-app-symbol.svg
-            - github-big-logo.svg
-            - hudson.png
-            - instagram.svg
-            - linkedin.svg
-            - youtube.svg
-        - css/
-            - style.css
+    A criação do "Dark-Mode"
+    A animação das bordas
 
-### Especificações
+Todo o projeto foi criado tendo a mentalidade "Mobile-First".
 
-- Fonte utilizada: `'Open Sans', sans-serif;`
-- Cores utilizadas:
-    - Azul escuro: `#04133d`;
-    - Azul: `#0a78fa`;
-    - Azul claro: `#45dbfc`;
-    - Azul mais claro: `#d4e9ff`;
-    - Branco: `#fff`;
-    - Cinza escuro: `#636363`;
-    - Cinza claro: `#aeaeae`;
-
-### O layout
-
-[Desktop](./kenzie-academy_startnasuacarreira.png)
-
-[Mobile](./kenzie-academy_startnasuacarreira-mobile.png)
+O curso foi extremamente útil para o desenvolvimento dos meus primeiros conhecimentos em desenvolvimento Web. Agora, o próximo passo é focar e aprender cada vez mais para ter oportunidades na área.
 
 ## Documentação
 
